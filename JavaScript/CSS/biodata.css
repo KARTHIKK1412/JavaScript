@@ -1,0 +1,53 @@
+.c1
+{ 
+    /* height: 800px;*/
+    width: 500px; 
+    margin:auto;
+    background-color:darkslateblue;
+    
+}
+
+.head1
+{  
+    padding: 25px;
+    text-align: center;
+}
+
+.n1
+{   
+    width: 200px;
+    margin-left: 95px;
+    border: none;
+    outline: none;
+   
+}
+
+.r1
+{
+    width: 200px;
+    margin-left: 80px;
+    outline: none;
+    border: none;
+}
+
+.s1
+{
+    width: 200px;
+    margin-left:25px;
+    outline: none;
+    border: none;
+}
+
+.age1
+{
+    width: 200px;
+    margin-left:95px;
+    outline: none;
+    border: none;
+}
+
+.dob 
+{   
+    margin-left: 95px;
+    line-height: 40px;
+}

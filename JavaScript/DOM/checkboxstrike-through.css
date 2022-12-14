@@ -1,0 +1,12 @@
+
+.strike-through
+{
+    text-decoration: line-through;
+}
+
+.checkbox-lable
+{
+    font-family:'Courier New', Courier, monospace;
+    margin: left 5px;
+}
+

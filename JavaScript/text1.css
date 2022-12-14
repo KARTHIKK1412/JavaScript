@@ -1,0 +1,29 @@
+.bs
+{color:blue; 
+    text-align: center;
+     text-decoration: underline;}
+.bb
+{color:green; 
+      font-size: 30px;
+      text-align: right; 
+      text-decoration:overline;
+      text-decoration-style:double;}
+.cc{  
+      color:red;
+      font-size:44px;
+      text-align: left; 
+      text-decoration: line-through;
+      text-decoration-color:gold;
+      text-decoration-style:solid
+      ;
+      text-indent: 50px;
+      text-transform:uppercase;
+      text-shadow:20px 30px 20px orange;
+      line-height:100px;
+    }
+P{
+ color:violet;
+ text-align:justify;
+ word-spacing: 10px;
+ letter-spacing: 10px;
+}

@@ -1,0 +1,99 @@
+/* .a
+{
+    width:350px;
+}
+
+body
+{
+    background-color: black;
+}
+
+.bk
+{
+    height: 50px;
+    width: 70px;
+} */
+
+
+.bk
+{
+    background-color:lightgrey;
+    height:auto;
+    width: 700px;
+    position: static;
+}
+
+.a
+{
+    height:155;
+    width:170;
+    background-color:black;
+    border-radius: 50%;
+}
+
+.b
+{
+    height:80;
+    width:130;
+    border-radius: 25%;
+    margin-right: 300px;
+    margin-left: 100px;
+    background-color: black;
+}
+
+.c
+{
+    height:20;
+    width:130;
+    border-radius: 25%;
+    margin-left: 100px;
+    background-color: black;
+}
+       
+img{
+    height: 700px;
+    width:600px;
+}
+
+.butt1{
+    position:absolute;
+    top:107px;
+    left:220px;
+}
+
+.butt2{
+    position:absolute;
+    top:315px;
+    left:220px;
+}
+
+.butt3{
+    position:absolute;
+    top:530px;
+    left:220px;
+}
+
+.butt4{
+   position: absolute;
+   top:107px;
+   left: 350px;
+}
+
+.butt5{
+    position: absolute;
+    top:315px;
+    left: 350px;
+ }
+
+ .butt6{
+    position: absolute;
+    top:530px;
+    left: 350px;
+ }
+
+ .butt7{
+    position: absolute;
+    top:10px;
+    left: 150px;
+ }
+

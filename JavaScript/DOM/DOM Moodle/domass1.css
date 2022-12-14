@@ -1,0 +1,31 @@
+body
+{
+    background-color: black;
+}
+
+.img1
+{
+    height: 200px;
+    width: 200px;
+}
+
+.img2
+{
+    height: 200px;
+    width: 200px;
+}
+
+.bt
+{
+    height: 75px;
+    width: 150px;
+    background-color: gray;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.bt1
+{
+    border-radius: 5px;
+}

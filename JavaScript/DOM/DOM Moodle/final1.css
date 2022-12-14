@@ -1,0 +1,55 @@
+body{
+    background-color: gray;
+}
+
+.divv{
+    margin-left: 20px;
+}
+
+.inpp{
+    background-color:gold;
+    border: none;
+    outline: none;
+    border-bottom:1px solid white ;
+    color: white;
+    width: 30%;
+}
+
+.buu{
+    background-color:gray;
+    border-radius: 10px;
+    transition: transform 0.3;
+}
+
+.buu:hover{
+    transform: translate(2px,2px);
+}
+
+.lii
+{
+    padding: 10px;
+    overflow: hidden;
+}
+
+.di2{
+    background-color:goldenrod;
+    width: 33%;
+    border-radius: 15PX;
+    margin-top: 20px;
+}
+
+.dell{
+    background-color: rosybrown;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    position: relative;
+    bottom: 30px;
+    float: right;
+}
+
+.dell:hover{
+transform:translate(2px,2px);
+border: none;
+outline: none;
+}
